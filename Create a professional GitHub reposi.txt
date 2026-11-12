@@ -1,0 +1,11 @@
+Create a professional GitHub repository for my college capstone project.
+
+Project Title: Extension Request Sorter
+Programme: CIT AI-Native Engineering Programme
+Semester: 1
+Assessment: 5 (40%)
+Domain: Education
+
+Upload all project files from my ZIP, preserve the folder structure, create a professional README, keep .env and API keys out of GitHub using .gitignore, verify the Python files and tests, include all documentation and reports, and create meaningful Git commits. Do not invent API test results or claim faculty approval.
+
+Repository name: extension-request-sorter

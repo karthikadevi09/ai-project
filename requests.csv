@@ -1,0 +1,21 @@
+id,date,request
+R01,2026-10-01,Please give me 2 more days for CS101 lab record. I had fever.
+R02,2026-10-01,My grandmother passed away. Need 5 days extension for MA102.
+R03,2026-10-02,Need extension.
+R04,2026-10-02,My laptop stopped working. Need 2 days for PH103.
+R05,2026-10-03,I need 4 days for CS101 because of fever.
+R06,2026-10-03,Please give me 3 days for MA102 due to a family emergency.
+R07,2026-10-04,I need 2 more days for PH103 because of a technical issue.
+R08,2026-10-04,Can I get 7 days for CS101? I have too much workload.
+R09,2026-10-05,Need 2 days for MA102 due to a college event.
+R10,2026-10-05,Please extend my deadline by 5 days.
+R11,2026-10-06,I need 1 day for CS101 because I am sick.
+R12,2026-10-06,My laptop crashed. Please give me 6 days for MA102.
+R13,2026-10-07,I need 2 days for PH103 due to a family emergency.
+R14,2026-10-07,Can I submit CS101 on Monday? I have a wedding.
+R15,2026-10-08,Please give me two days for MA102 because of technical problems.
+R16,2026-10-08,Need 10 days for PH103 because of personal workload.
+R17,2026-10-09,I need 3 days for CS101 due to a medical reason.
+R18,2026-10-09,Please give me 2 days for UNKNOWN999 due to fever.
+R19,2026-10-10,I need 4 days for MA102 due to a family function.
+R20,2026-10-10,Please give me 2 days for PH103.
